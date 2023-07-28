@@ -1,3 +1,4 @@
+#FOrmula de la suma de numeros los N numeros
 print("Ingrese el valor final (N)")
 a = int(input())
 b=0
